@@ -20,9 +20,8 @@ This repository contains academic projects, assignments, and practical exercises
 - ESTG - MC1: Computational Mathematics I
 - ESTG - MD: Discrete Mathematics
 - ESTG - PP: Programming Paradigms
-- ESTG - SDAC: Digital Systems and Computer Architecture
+- ESTG - SDAC: Digital Systems and Computer Architecture  
 
----
 
 ### 🧩 2nd Year
 
