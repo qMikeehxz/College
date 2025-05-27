@@ -38,8 +38,7 @@ This repository contains academic projects, assignments, and practical exercises
 - ESTG - GPI: IT Project Management
 - ESTG - PAW: Web Programming
 - ESTG - RC: Computer Networks
-
----
+<br>
 
 ### 🧩 3rd Year
 
@@ -55,6 +54,9 @@ This repository contains academic projects, assignments, and practical exercises
 - ESTG - PF: Final Project
 - ESTG - SIO: Organizational Information Systems
 - ESTG - NG: Management Basics
+
+<br>
+<br>
 
 <p align="center">✦ ✧ ✦ ✧ ✦ ✧ ✦</p>
 
