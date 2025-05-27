@@ -21,7 +21,7 @@ This repository contains academic projects, assignments, and practical exercises
 - ESTG - MD: Discrete Mathematics
 - ESTG - PP: Programming Paradigms
 - ESTG - SDAC: Digital Systems and Computer Architecture  
-
+<br>
 
 ### 🧩 2nd Year
 
