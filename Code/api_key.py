@@ -1,0 +1,1 @@
+api_key = "HQdZ976yvnpgGfBmqiio"  # Substitua pela sua chave da API

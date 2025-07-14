@@ -1,0 +1,18 @@
+names:
+- Acacia_log
+- Birch_log
+- Cherry_log
+- Dark_oak_log
+- Jungle_log
+- Oak_log
+- Spruce_log
+nc: 7
+roboflow:
+  license: CC BY 4.0
+  project: pixelvision2
+  url: https://universe.roboflow.com/artificial-intelligence-l0rp4/pixelvision2/dataset/2
+  version: 2
+  workspace: artificial-intelligence-l0rp4
+train: C:/Users/yoga/Downloads/ModelPixelTrunks2/PixelVision2-2/train/images
+val: C:/Users/yoga/Downloads/ModelPixelTrunks2/PixelVision2-2/valid/images
+test: C:/Users/yoga/Downloads/ModelPixelTrunks2/PixelVision2-2/test/images
